@@ -2,13 +2,9 @@
 
 ## 🚀 About Me
 
-- 🎓 I am a Computer Science student at MIT ADT University, passionate about backend engineering and scalable system design.  
-- 💻 I enjoy building microservice-based applications, designing REST APIs, and solving challenging DSA problems.  
-- 💡 I love working on real-world projects, event-driven architectures, and developer community initiatives.
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=LalitDeshmukh018&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LalitDeshmukh018&show_icons=true&theme=radical&cache_seconds=1800)
+- I am a backend engineer focused on building scalable backend services, working on real-world projects and designing reliable systems driven by problem solving.
+- **Ask me about:** Backend engineering, Java, Spring Boot, REST API design, database modeling, microservices architecture and problem-solving in DSA. 
+- **Fun fact:** I lead technical communities, enjoy mentoring peers, and love combining coding, teamwork, and collaborative learning.
 
 
 ## 🚀 Tech Stack & Tools  
@@ -18,15 +14,10 @@
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-%23000000.svg?style=for-the-badge&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
-
-#### 🌐 Frontend (Core Web)
-
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -57,6 +48,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
+
 
 
 ---
@@ -88,9 +81,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LalitDeshmukh018&color=blue)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LalitDeshmukh018&layout=compact&theme=radical)
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&author=%E2%80%8B&quote=Code.%20Fail.%20Learn.%20Improve.)
 
 
 ## 📫 Let's Connect
